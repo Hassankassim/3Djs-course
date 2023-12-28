@@ -113,17 +113,14 @@ const skills = [
 ];
 const languages = [
   {
-    title: "🇫🇷 French",
+    title: "sw Swahili",
     level: 100,
   },
   {
-    title: "🇺🇸 English",
+    title: "🇺k English",
     level: 80,
   },
-  {
-    title: "🇯🇵 Japanese",
-    level: 20,
-  },
+
 ];
 
 const SkillsSection = () => {
